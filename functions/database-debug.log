@@ -1,0 +1,7 @@
+00:16:01.298 [NamespaceSystem-akka.actor.default-dispatcher-5] INFO akka.event.slf4j.Slf4jLogger - Slf4jLogger started
+00:16:01.769 [main] INFO com.firebase.server.forge.App$ - Listening at localhost:9000
+10:18:25.584 [Thread-1] INFO com.firebase.server.forge.App$ - Attempting graceful shutdown.
+10:18:25.843 [NamespaceSystem-akka.actor.default-dispatcher-10] INFO com.firebase.core.namespace.Terminator$Terminator - 1 actors left to terminate: bingo-chino
+10:18:25.879 [NamespaceSystem-akka.actor.default-dispatcher-11] INFO com.firebase.core.namespace.NamespaceActor - Stopping namespace actor for bingo-chino
+10:18:25.882 [NamespaceSystem-akka.actor.default-dispatcher-11] INFO com.firebase.core.namespace.NamespaceActor - Gauges removed for bingo-chino
+10:18:25.893 [Thread-1] INFO com.firebase.server.forge.App$ - Graceful shutdown complete.
